@@ -70,3 +70,6 @@ header{
 .course-container input{
     max-width: 50%;
 }
+.reset-btn{
+    background-color: aqua;
+}
